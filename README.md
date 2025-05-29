@@ -1,4 +1,4 @@
-# Prova Shell Básico - João Pedro
+# Prova Shell Básico - João Pedro Ferreira Vassalo Alves RM - 563836
 
 Repositório contendo os scripts desenvolvidos para a prova de Shell Básico.
 
